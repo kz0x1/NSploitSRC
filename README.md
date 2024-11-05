@@ -22,6 +22,3 @@ Thank you, - **N-Sploit Developers.**
 - [@kz0x1](https://github.com/kz0x1)
 - [@iusethisLol](https://github.com/iusethisLol)
 - [@razapi](https://github.com/razapi)
-- [@Ficelloo](https://github.com/Ficelloo)
-- [@jLn0n](https://github.com/jLn0n)
-- [@blatantfr](https://github.com/blatantfr)
